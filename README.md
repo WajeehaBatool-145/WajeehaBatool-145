@@ -25,7 +25,6 @@ Currently focused on strengthening my programming and software development skill
 * Artificial Intelligence
 * Emerging Technologies
 * Problem Solving
-* 
 ---
 
 ## 🛠️ Languages & Tools
