@@ -9,7 +9,6 @@ Currently focused on strengthening my programming and software development skill
 
 ## 🌱 Currently Learning
 
-- 💻 C++
 - 🧩 Object-Oriented Programming (OOP)
 - 🛠️ Software Engineering
 - 🌐 Web Development
