@@ -20,6 +20,7 @@ Currently focused on strengthening my programming and software development skill
 ## 💡 Interests
 
 - Software Development
+- Web Development
 - Programming
 - Artificial Intelligence
 - Technology
